@@ -1,0 +1,14 @@
+[
+    {
+        "id": "101",
+        "name": "priya",
+        "department": "cs",
+        "age": 18,
+        "marks": [
+            80.0,
+            75.0,
+            76.0
+        ],
+        "attendance": 86.0
+    }
+]
